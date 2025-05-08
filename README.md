@@ -1,1 +1,1 @@
-# odin-recipes
+Recipe Project for Odin. I will learn to apply the HTML basics to a website.# odin-recipes
